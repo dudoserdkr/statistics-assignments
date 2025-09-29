@@ -1,0 +1,44 @@
+# dirs
+classworks/
+
+# R history files
+.Rhistory
+.Rapp.history
+
+# R data and user-specific files
+.RData
+.Ruserdata
+.RDataTmp
+
+# RStudio project files (keep .Rproj if needed)
+.Rproj.user/
+*.Rproj.user
+
+# R check and build artifacts
+.Rcheck/
+*.Rout
+*.Rout.save
+
+# Cache directories (e.g., RMarkdown, knitr)
+*_cache/
+*_files/
+
+# Logs and temporary/system files
+*.log
+*.out
+*.aux
+*.toc
+.DS_Store
+Thumbs.db
+
+# Output and result folders
+/outputs/
+/results/
+/figures/
+/plots/
+
+# Compiled or binary files
+*.o
+*.so
+*.dll
+*.exe
